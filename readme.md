@@ -1,4 +1,4 @@
-# Running CentOS on WSL2
+# Running CentOS 6.10 on WSL2
 
 In `%USER_HOME%/.wslconfig` (create, if it does not exist) place:
 ```
